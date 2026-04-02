@@ -30,7 +30,7 @@ Using the Interquartile Range (IQR) method and visualizations (Histograms & Boxp
 
 ### 2. Bivariate Analysis (Relationships)
 We mapped the interactions between two variables to understand how they scale together:
-* **Calories vs. Protein (Scatterplot + Regression):** Demonstrated a clear, positive linear relationship—as calories increase, protein generally increases alongside it.
+* **Calories vs. Protein (Scatterplot + Regression):** Demonstrated a clear, positive linear relationship, as calories increase, protein generally increases alongside it.
 * **Sodium by Restaurant (Density Plot):** Highlighted the distinct sodium profiles across chains, showing that while all are right-skewed, certain restaurants have much wider spreads of high-sodium items.
 * **Calories by Restaurant (Boxplot/Bar Chart):** Revealed significant variations in the median and mean caloric offerings depending on the specific fast-food chain chosen.
 
